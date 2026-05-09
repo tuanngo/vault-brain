@@ -8,9 +8,15 @@
 
 # Thumbnails
 ._*
+Thumbs.db
 
 # Editors
 .vscode/
 .idea/
 *.swp
 *.swo
+
+# Tolaria/Editor specific
+.tolaria/
+.obsidian/
+.vscode/
